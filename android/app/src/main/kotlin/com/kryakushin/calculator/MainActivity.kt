@@ -1,4 +1,4 @@
-package com.kryakushin.calculator
+package com.kryakushin.counter
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
-# calculator
+# Expressive Counter
 
-A new Flutter Calculator.
+A new Flutter Expressive Counter.
 
 ## Getting Started
 
